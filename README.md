@@ -98,4 +98,12 @@ El script genera un PDF profesional con:
 
 ---
 
+## 🔗 Repositorio Relacionado
+
+Este agente fue utilizado para auditar la siguiente API:
+
+👉 **API REST MVC con FastAPI:** [API-](https://github.com/P4PUNN0/API-)
+
+---
+
 *Reporte generado automáticamente por el Agente de Auditoría de Seguridad IA*
